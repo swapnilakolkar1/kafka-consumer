@@ -1,8 +1,5 @@
 package com.kafka.consumer.entities;
 
-import lombok.Data;
-import lombok.Getter;
-
 import javax.persistence.*;
 import java.util.Objects;
 
